@@ -1,0 +1,6 @@
+apertium-mkd (0.1.0-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 09 Mar 2015 18:00:38 +0530
