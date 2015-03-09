@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-mkd
+srcdir=@datarootdir@/apertium/apertium-mkd
+
+Name: apertium-mkd
+Description: Finite-state morphological transducer and constraint grammar for Macedonian 
+Version: @VERSION@
+
